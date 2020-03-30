@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.20754287.chunk.css",
-  "main.js": "/static/js/main.8ceff02f.chunk.js",
-  "main.js.map": "/static/js/main.8ceff02f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/css/2.f245c89c.chunk.css": "/static/css/2.f245c89c.chunk.css",
-  "static/js/2.ceece3cc.chunk.js": "/static/js/2.ceece3cc.chunk.js",
-  "static/js/2.ceece3cc.chunk.js.map": "/static/js/2.ceece3cc.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.17f530526ee0235070062f0206f3eb9b.js": "/precache-manifest.17f530526ee0235070062f0206f3eb9b.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.f245c89c.chunk.css.map": "/static/css/2.f245c89c.chunk.css.map",
-  "static/css/main.20754287.chunk.css.map": "/static/css/main.20754287.chunk.css.map"
+  "main.css": "/Trading-AssistanceBot-UI/static/css/main.20754287.chunk.css",
+  "main.js": "/Trading-AssistanceBot-UI/static/js/main.0a6ff83a.chunk.js",
+  "main.js.map": "/Trading-AssistanceBot-UI/static/js/main.0a6ff83a.chunk.js.map",
+  "runtime~main.js": "/Trading-AssistanceBot-UI/static/js/runtime~main.cf7519f7.js",
+  "runtime~main.js.map": "/Trading-AssistanceBot-UI/static/js/runtime~main.cf7519f7.js.map",
+  "static/css/2.f245c89c.chunk.css": "/Trading-AssistanceBot-UI/static/css/2.f245c89c.chunk.css",
+  "static/js/2.6f282e38.chunk.js": "/Trading-AssistanceBot-UI/static/js/2.6f282e38.chunk.js",
+  "static/js/2.6f282e38.chunk.js.map": "/Trading-AssistanceBot-UI/static/js/2.6f282e38.chunk.js.map",
+  "index.html": "/Trading-AssistanceBot-UI/index.html",
+  "precache-manifest.4aeac81583daa8a72c52ea9760c490b1.js": "/Trading-AssistanceBot-UI/precache-manifest.4aeac81583daa8a72c52ea9760c490b1.js",
+  "service-worker.js": "/Trading-AssistanceBot-UI/service-worker.js",
+  "static/css/2.f245c89c.chunk.css.map": "/Trading-AssistanceBot-UI/static/css/2.f245c89c.chunk.css.map",
+  "static/css/main.20754287.chunk.css.map": "/Trading-AssistanceBot-UI/static/css/main.20754287.chunk.css.map"
 }
